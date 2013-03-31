@@ -25,5 +25,9 @@
       <properties>
         <jdk.target>1.6</jdk.target>
     </properties>
-         
+      <developers>
+      	<developer>
+      		<email>harikishan@gmail.com</email>
+      	</developer>
+      </developers>   
 </project>
